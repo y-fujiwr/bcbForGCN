@@ -1,6 +1,6 @@
 # BigCloneBenchデータセットの準備方法
 1. BCBのリレーション "clone" を csv形式(clone.csv)で保存
-2. BCBのリレーション "functions" をcsv形式(functions.csv)で保存
+2. BCBのリレーション "functions" をcsv形式(functions.csv)で保存  
 以上のリレーションを含むDB: <https://www.dropbox.com/s/z2k8r78l63r68os/BigCloneBench_BCEvalVersion.tar.gz?dl=0>
 
 3. function_snippets.zip を解凍
