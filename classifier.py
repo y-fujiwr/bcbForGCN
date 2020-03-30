@@ -53,8 +53,6 @@ for func_id, category in zip(probrem["id"],probrem["category"]):
 
 if len(FNFlist) == 0:
     exit(1)
-print(FNFlist)
-exit(1)
 
 #function_snippets内に存在しないメソッドをbcbから抽出する
 functions = pd.read_csv("functions.csv")
